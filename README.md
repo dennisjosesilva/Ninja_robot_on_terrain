@@ -2,9 +2,9 @@ Ninja_robot_on_terrain
 ======================
 
 Ninja and Robots on the terrain
+------------------------------------
 
 I did this project when I was studying Ogre3D to a university project.
--------------------------------------------------------------------------------------------
 
 Use WASD to move the camera
 Use Mouse to control move the pointer
